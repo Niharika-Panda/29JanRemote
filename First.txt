@@ -2,3 +2,6 @@ This is my First Text file for Git.
 
 We are testing the "Fetch" command. 
 
+Modifying in Github to test the "pull" command
+
+
