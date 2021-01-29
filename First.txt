@@ -4,4 +4,6 @@ We are testing the "Fetch" command.
 
 Modifying in Github to test the "pull" command
 
-Modifying the file in branch Feat1 
+Modifying the file in branch Feat1
+
+We are testing branch merging. Modifying the file in branch master 
