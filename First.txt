@@ -7,3 +7,6 @@ Modifying in Github to test the "pull" command
 Modifying the file in branch Feat1
 
 We are testing branch merging. Modifying the file in branch master 
+
+We are testing brach merge. Modifying the file in branch Feat1 
+
